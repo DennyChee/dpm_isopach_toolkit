@@ -1,0 +1,10 @@
+# Previous toolkit version, kept locally for reference only
+old/
+# Output of run_example.m (regenerated on every run)
+example_run_output/
+# Local tooling / OS / MATLAB / Python clutter
+.claude/
+__pycache__/
+*.asv
+*.m~
+.DS_Store
